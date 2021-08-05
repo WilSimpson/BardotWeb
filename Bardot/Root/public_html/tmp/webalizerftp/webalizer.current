@@ -1,0 +1,1402 @@
+# Webalizer V2.23-05 Incremental Data - 07/26/2015 13:28:24
+2015 7 26 13 28 24
+2911 2911 1 640 0 0 333604924 63 3 1
+1 1556 1556 25 26
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+305 305 36842268 1 4 1
+2606 2606 296762656 1 59 2
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+651 651 74190392 17
+0 0 0 0
+0 0 0 0
+0 0 0 0
+399 399 40110047 9
+1556 1556 182462217 33
+0 0 0 0
+0 0 0 0
+305 305 36842268 4
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0
+0
+0
+2911
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/home/bardotiowa/js/picker/.Ulysses-Group.plist
+0 2 0 974 0 0
+/home/bardotiowa/public_html/.zshrc
+0 7 0 4606 0 0
+/home/bardotiowa/images/11270626_1592193714376384_2528151690596907772_o.jpg
+0 2 0 207728 0 0
+/home/bardotiowa/public_html/www/layout-styles.css
+0 7 0 30934 0 0
+/home/bardotiowa/images/BardotReservations.png
+0 2 0 2796 0 0
+/home/bardotiowa/images/color/reservations_logo_bluegray.png
+0 2 0 33516 0 0
+/home/bardotiowa/images/color/slide-separator_green.png
+0 2 0 23048 0 0
+/home/bardotiowa/.bashrc
+0 1 0 124 0 0
+/home/bardotiowa/public_html/images/BardotTestimonial.png
+0 7 0 15820 0 0
+/home/bardotiowa/public_html/images/gallery/02.jpg
+0 7 0 129682 0 0
+/home/bardotiowa/images/color/logo_elixir_bluegray.png
+0 2 0 45020 0 0
+/home/bardotiowa/images/color/column-divider_green.png
+0 2 0 29612 0 0
+/home/bardotiowa/public_html/images/color/logo_elixir_yellow.png
+0 7 0 157570 0 0
+/home/bardotiowa/images/menu_right2.jpg
+0 2 0 84248 0 0
+/home/bardotiowa/public_html/images/color/slide-separator_green.png
+0 7 0 80668 0 0
+/home/bardotiowa/public_html/images/color/logo_intro_green.png
+0 7 0 181349 0 0
+/home/bardotiowa/images/testimage.jpg
+0 2 0 40348816 0 0
+/home/bardotiowa/images/map/pointer.png
+0 2 0 10830 0 0
+/home/bardotiowa/js/owl-carousel/owl.carousel.css
+0 2 0 3467 0 0
+/home/bardotiowa/images/tumblr_static_pub_crawl_delhi_background.jpg
+0 2 0 223172 0 0
+/home/bardotiowa/public_html/contact.html
+0 7 0 59995 0 0
+/home/bardotiowa/js/isotope.js
+0 2 0 35974 0 0
+/home/bardotiowa/public_html/images/color/timetable-decorator2_wine.png
+0 7 0 619948 0 0
+/home/bardotiowa/public_html/tmp/webalizerftp/
+0 7 0 26262 0 0
+/home/bardotiowa/public_html/images/salads.png
+0 7 0 981764 0 0
+/home/bardotiowa/images/icons.svg
+0 2 0 2862 0 0
+/home/bardotiowa/public_html/svg-loaders/tail-spin.svg
+0 7 0 9366 0 0
+/home/bardotiowa/images/color/header_decorator_yellow.png
+0 2 0 5342 0 0
+/home/bardotiowa/images/color/header_decorator_wine.png
+0 2 0 5342 0 0
+/home/bardotiowa/images/color/slide-separator_bluegray.png
+0 2 0 23048 0 0
+/home/bardotiowa/public_html/gallery.html
+0 7 0 113898 0 0
+/home/bardotiowa/js/owl-carousel/.Ulysses-Group.plist
+0 2 0 780 0 0
+/home/bardotiowa/public_html/images/logo-dark.png
+0 7 0 157570 0 0
+/home/bardotiowa/images/color/timetable-decorator_bluegray.png
+0 2 0 177128 0 0
+/home/bardotiowa/public_html/fonts/Bitter-Bold.otf
+0 7 0 454160 0 0
+/home/bardotiowa/.lastlogin
+0 3 0 41 0 0
+/home/bardotiowa/images/raster.png
+0 2 0 5588 0 0
+/home/bardotiowa/images/color/timetable-decorator2_yellow.png
+0 2 0 177128 0 0
+/home/bardotiowa/images/map/pointer-yellow.png
+0 2 0 7062 0 0
+/home/bardotiowa/public_html/js/jquery.form.js
+0 7 0 281379 0 0
+/home/bardotiowa/public_html/js/picker/style-picker/picker-icon.png
+0 7 0 21175 0 0
+/home/bardotiowa/images/gallery/09.jpg
+0 2 0 36438 0 0
+/home/bardotiowa/public_html/js/.Ulysses-Group.plist
+0 7 0 13146 0 0
+/home/bardotiowa/.cpanel/datastore/all_iplist.db
+0 6 0 2958 0 0
+/home/bardotiowa/css/swipebox.css
+0 2 0 10841 0 0
+/home/bardotiowa/images/color/timetable-decorator2_bluegray.png
+0 2 0 177128 0 0
+/home/bardotiowa/public_html/js/jquery.js
+0 7 0 670512 0 0
+/home/bardotiowa/public_html/images/steaks.png
+0 7 0 1224216 0 0
+/home/bardotiowa/public_html/.cpanel/datastore/_usr_local_cpanel_bin_quota_bardotiowa
+0 7 0 4585 0 0
+/home/bardotiowa/js/owl-carousel/owl.carousel.min.js
+0 2 0 29832 0 0
+/home/bardotiowa/public_html/images/arrow-down.png
+0 7 0 9653 0 0
+/home/bardotiowa/public_html/images/drinks7.png
+0 7 0 3044797 0 0
+/home/bardotiowa/public_html/images/gallery/09.jpg
+0 7 0 127533 0 0
+/home/bardotiowa/images/color/logo_elixir_orange.png
+0 2 0 45020 0 0
+/home/bardotiowa/images/dark.jpg
+0 2 0 18300 0 0
+/home/bardotiowa/.cpanel/caches/filesys/___home___bardotiowa
+0 6 0 978 0 0
+/home/bardotiowa/images/parallax/opening_hours.jpg
+0 2 0 162766 0 0
+/home/bardotiowa/images/color/header_decorator_green.png
+0 2 0 5342 0 0
+/home/bardotiowa/public_html/images/loader.gif
+0 7 0 18256 0 0
+/home/bardotiowa/images/color/testimonials_logo_black.png
+0 2 0 97940 0 0
+/home/bardotiowa/public_html/.cpanel/nvdata/x3finder
+0 7 0 21 0 0
+/home/bardotiowa/public_html/images/color/slide-separator_orange.png
+0 7 0 80668 0 0
+/home/bardotiowa/public_html/images/btn-next.png
+0 7 0 15540 0 0
+/home/bardotiowa/public_html/images/10568894_1470138286581928_3893571996352785709_n.jpg
+0 7 0 459991 0 0
+/home/bardotiowa/images/BardotNav2.gif
+0 2 0 2928 0 0
+/home/bardotiowa/public_html/images/zoom.png
+0 7 0 19166 0 0
+/home/bardotiowa/images/header_decorator.png
+0 2 0 1190 0 0
+/home/bardotiowa/css/color/bluegray.css
+0 2 0 7076 0 0
+/home/bardotiowa/css/color/yellow.css
+0 3 0 10255 0 0
+/home/bardotiowa/public_html/js/jquery.validate.js
+0 7 0 280043 0 0
+/home/bardotiowa/images/BardotFullWhite.png
+0 2 0 12002 0 0
+/home/bardotiowa/public_html/tmp/webalizerftp/webalizer.hist
+0 7 0 20083 0 0
+/home/bardotiowa/images/color/column-divider_orange.png
+0 2 0 29612 0 0
+/home/bardotiowa/images/BardotTestimonial.png
+0 2 0 4520 0 0
+/home/bardotiowa/public_html/logs/bardotiowacity.com-Jul-2015.gz
+0 7 0 4564 0 0
+/home/bardotiowa/images/drinks6.png
+0 2 0 788304 0 0
+/home/bardotiowa/public_html/js/bootstrap.min.js
+0 7 0 203709 0 0
+/home/bardotiowa/css/YTPlayer.css
+0 2 0 18410 0 0
+/home/bardotiowa/tmp/webalizerftp/daily_usage_201507.png
+0 2 0 5018 0 0
+/home/bardotiowa/images/CP-Lounge-Bali-Rainbow-Shots_0.jpg
+0 2 0 672784 0 0
+/home/bardotiowa/public_html/.cpanel/caches/statcache_persistant
+0 7 0 2345 0 0
+/home/bardotiowa/images/color/reservations_logo_yellow.png
+0 2 0 33516 0 0
+/home/bardotiowa/public_html/reservations.php
+0 7 0 5063 0 0
+/home/bardotiowa/public_html/images/food1.png
+0 7 0 3451812 0 0
+/home/bardotiowa/public_html/images/light.jpg
+0 7 0 63511 0 0
+/home/bardotiowa/public_html/js/bootstrap-image-gallery.min.js
+0 7 0 7672 0 0
+/home/bardotiowa/public_html/images/color/testimonials_logo_green.png
+0 7 0 342790 0 0
+/home/bardotiowa/public_html/images/color/logo_intro_bluegray.png
+0 7 0 178836 0 0
+/home/bardotiowa/images/overlay.png
+0 2 0 426 0 0
+/home/bardotiowa/images/color/logo_intro_black.png
+0 2 0 50532 0 0
+/home/bardotiowa/css/color/green.css
+0 2 0 6677 0 0
+/home/bardotiowa/public_html/images/color/header_decorator_red.png
+0 7 0 18697 0 0
+/home/bardotiowa/js/picker/style-picker/green.jpg
+0 2 0 2284 0 0
+/home/bardotiowa/.cpanel/datastore/_usr_sbin_pure-ftpd_--help
+0 2 0 2300 0 0
+/home/bardotiowa/images/color/logo_intro_bluegray.png
+0 2 0 51096 0 0
+/home/bardotiowa/public_html/images/map/pointer-orange.png
+0 7 0 19880 0 0
+/home/bardotiowa/images/11403507_1602779599984462_678947514118551556_n.jpg
+0 2 0 186286 0 0
+/home/bardotiowa/js/picker/style-picker/.Ulysses-Group.plist
+0 2 0 590 0 0
+/home/bardotiowa/images/btn-prev.png
+0 2 0 4434 0 0
+/home/bardotiowa/images/gallery/06.jpg
+0 2 0 37052 0 0
+/home/bardotiowa/images/loader.gif
+0 2 0 5216 0 0
+/home/bardotiowa/fonts/FontAwesome.otf
+0 2 0 171816 0 0
+/home/bardotiowa/js/picker/style-picker/pink.jpg
+0 2 0 2284 0 0
+/home/bardotiowa/images/10418878_1471157429813347_2414516385554515349_n.jpg
+0 2 0 204556 0 0
+/home/bardotiowa/images/color/timetable-decorator_red.png
+0 2 0 177128 0 0
+/home/bardotiowa/public_html/js/lightbox.js
+0 7 0 48961 0 0
+/home/bardotiowa/public_html/.bashrc
+0 7 0 868 0 0
+/home/bardotiowa/js/picker/style-picker/boxed.png
+0 2 0 2740 0 0
+/home/bardotiowa/images/color/timetable-decorator2_green.png
+0 2 0 177128 0 0
+/home/bardotiowa/public_html/images/11231318_1611627449099677_3390140144428731984_n.jpg
+0 7 0 306173 0 0
+/home/bardotiowa/reservations.php
+0 2 0 1433 0 0
+/home/bardotiowa/public_html/home.html
+0 6 0 12264 0 0
+/home/bardotiowa/public_html/images/drinks5.png
+0 7 0 2227631 0 0
+/home/bardotiowa/public_html/tmp/webalizer/daily_usage_201507.png
+0 7 0 18389 0 0
+/home/bardotiowa/public_html/images/map/pointer-green.png
+0 7 0 25060 0 0
+/home/bardotiowa/images/drinks7.png
+0 2 0 869942 0 0
+/home/bardotiowa/public_html/images/color/logo_elixir_bluegray.png
+0 7 0 157570 0 0
+/home/bardotiowa/public_html/images/color/column-divider_black.png
+0 7 0 103642 0 0
+/home/bardotiowa/public_html/images/color/testimonials_logo_bluegray.png
+0 7 0 342790 0 0
+/home/bardotiowa/public_html/.cpanel/datastore/reseller_SORTEDRESELLERSUSERS_bardotiowa
+0 7 0 1442 0 0
+/home/bardotiowa/public_html/js/picker/style-picker/blue.jpg
+0 7 0 7994 0 0
+/home/bardotiowa/public_html/www/404.shtml
+0 7 0 12403 0 0
+/home/bardotiowa/public_html/images/desserts.png
+0 7 0 925778 0 0
+/home/bardotiowa/js/owl-carousel/owl.carousel.js
+0 2 0 107105 0 0
+/home/bardotiowa/js/picker/style-picker/blue.jpg
+0 2 0 2284 0 0
+/home/bardotiowa/public_html/images/color/testimonials_logo_orange.png
+0 7 0 342790 0 0
+/home/bardotiowa/public_html/images/parallax/opening_hours.jpg
+0 7 0 569681 0 0
+/home/bardotiowa/js/lightbox.js
+0 2 0 13801 0 0
+/home/bardotiowa/images/arrow-left.png
+0 2 0 2932 0 0
+/home/bardotiowa/public_html/images/color/slide-separator_red.png
+0 7 0 80668 0 0
+/home/bardotiowa/public_html/js/owl-carousel/grabbing.png
+0 7 0 812 0 0
+/home/bardotiowa/images/color/column-divider_wine.png
+0 2 0 29612 0 0
+/home/bardotiowa/images/about03.jpg
+0 2 0 67298 0 0
+/home/bardotiowa/public_html/images/map/pointer-yellow.png
+0 7 0 24717 0 0
+/home/bardotiowa/public_html/images/map/pointer-red.png
+0 7 0 19754 0 0
+/home/bardotiowa/reservations.html
+0 1 0 12192 0 0
+/home/bardotiowa/.md5sum
+0 1 0 33 0 0
+/home/bardotiowa/fonts/Bitter-Bold.otf
+0 2 0 129760 0 0
+/home/bardotiowa/public_html/images/color/logo_elixir_red.png
+0 7 0 157570 0 0
+/home/bardotiowa/public_html/images/slide-separator.png
+0 7 0 10493 0 0
+/home/bardotiowa/public_html/js/pathLoader.js
+0 7 0 7402 0 0
+/home/bardotiowa/js/html5shiv-printshiv.js
+0 2 0 32806 0 0
+/home/bardotiowa/images/food5.jpg
+0 2 0 101890 0 0
+/home/bardotiowa/public_html/css/color/yellow.css
+0 7 0 24031 0 0
+/home/bardotiowa/.cpanel/caches/dynamicui/gl_paper_lantern_en_.cache
+0 2 0 62788 0 0
+/home/bardotiowa/public_html/images/adress-ico.png
+0 7 0 8799 0 0
+/home/bardotiowa/public_html/images/testimonials_logo.png
+0 7 0 21588 0 0
+/home/bardotiowa/js/picker/style-picker/yellow.jpg
+0 2 0 2284 0 0
+/home/bardotiowa/public_html/css/font-awesome.min.css
+0 7 0 153906 0 0
+/home/bardotiowa/public_html/.Ulysses-Group.plist
+0 7 0 3843 0 0
+/home/bardotiowa/images/gallery/04.jpg
+0 2 0 37052 0 0
+/home/bardotiowa/images/color/testimonials_logo_green.png
+0 2 0 97940 0 0
+/home/bardotiowa/images/10678658_1482373605358396_2715382764172798182_n.jpg
+0 2 0 86516 0 0
+/home/bardotiowa/public_html/js/picker/style-picker/boxed.png
+0 7 0 9590 0 0
+/home/bardotiowa/images/slider/01.jpg
+0 2 0 178492 0 0
+/home/bardotiowa/images/cd-top-arrow.svg
+0 2 0 1124 0 0
+/home/bardotiowa/images/arrow-down.png
+0 2 0 2758 0 0
+/home/bardotiowa/public_html/
+0 7 0 233579 0 0
+/home/bardotiowa/public_html/js/picker/style-picker/purple.jpg
+0 7 0 7994 0 0
+/home/bardotiowa/public_html/images/color/header_decorator_orange.png
+0 7 0 18697 0 0
+/home/bardotiowa/public_html/images/color/timetable-decorator2_red.png
+0 7 0 619948 0 0
+/home/bardotiowa/public_html/images/color/slide-separator_wine.png
+0 7 0 80668 0 0
+/home/bardotiowa/public_html/fonts/fontawesome-webfont.eot
+0 7 0 392042 0 0
+/home/bardotiowa/js/owl-carousel/grabbing.png
+0 2 0 232 0 0
+/home/bardotiowa/public_html/images/color/header_decorator_black.png
+0 7 0 18697 0 0
+/home/bardotiowa/images/color/slide-separator_orange.png
+0 2 0 23048 0 0
+/home/bardotiowa/public_html/js/respond.js
+0 7 0 118618 0 0
+/home/bardotiowa/public_html/images/column-divider.png
+0 7 0 41223 0 0
+/home/bardotiowa/images/salads.png
+0 2 0 280504 0 0
+/home/bardotiowa/public_html/images/color/timetable-decorator_orange.png
+0 7 0 619948 0 0
+/home/bardotiowa/images/map/pointer-black.png
+0 2 0 5446 0 0
+/home/bardotiowa/.cpanel/caches/statcache_persistant
+0 2 0 670 0 0
+/home/bardotiowa/images/color/testimonials_logo_orange.png
+0 2 0 97940 0 0
+/home/bardotiowa/public_html/.bash_profile
+0 7 0 1232 0 0
+/home/bardotiowa/public_html/.cpanel/nvdata.cache
+0 7 0 399 0 0
+/home/bardotiowa/images/RainbowShot
+0 2 0 3981020 1 0
+/home/bardotiowa/public_html/images/color/column-divider_green.png
+0 7 0 103642 0 0
+/home/bardotiowa/images/BardotNav.png
+0 2 0 2708 0 0
+/home/bardotiowa/images/color/timetable-decorator2_wine.png
+0 2 0 177128 0 0
+/home/bardotiowa/js/jquery.prettyPhoto.js
+0 2 0 71503 0 0
+/home/bardotiowa/public_html/images/overlay.png
+0 7 0 1491 0 0
+/home/bardotiowa/images/about05.jpg
+0 2 0 25320 0 0
+/home/bardotiowa/js/jquery.inview.js
+0 2 0 4181 0 0
+/home/bardotiowa/public_html/images/color/logo_intro_wine.png
+0 7 0 180901 0 0
+/home/bardotiowa/public_html/images/map/pointer-black.png
+0 7 0 19061 0 0
+/home/bardotiowa/.cpanel/datastore/ftp_LISTSTORE
+0 2 0 628 0 0
+/home/bardotiowa/images/ornament.png
+0 2 0 19190 0 0
+/home/bardotiowa/tmp/webalizerftp/
+0 2 0 7528 0 1
+/home/bardotiowa/js/picker/style-picker/turquoise.jpg
+0 2 0 2284 0 0
+/home/bardotiowa/public_html/tmp/webalizer/usage_201507.html
+0 7 0 327558 0 0
+/home/bardotiowa/public_html/js/picker/style-picker/orange.jpg
+0 7 0 7994 0 0
+/home/bardotiowa/images/column-divider.png
+0 2 0 11778 0 0
+/home/bardotiowa/images/color/logo_elixir_red.png
+0 2 0 45020 0 0
+/home/bardotiowa/public_html/images/icons.svg
+0 7 0 10017 0 0
+/home/bardotiowa/fonts/fontawesome-webfont.woff
+0 2 0 130904 0 0
+/home/bardotiowa/public_html/tmp/webalizer/
+0 7 0 26094 0 0
+/home/bardotiowa/images/food2.png
+0 2 0 512764 0 0
+/home/bardotiowa/public_html/js/default.js
+0 7 0 146018 0 0
+/home/bardotiowa/js/picker/style-picker/dark.jpg
+0 2 0 18300 0 0
+/home/bardotiowa/.cpanel/datastore/apache_FETCHTYPES
+0 4 0 2080 0 0
+/home/bardotiowa/etc/ftpquota
+0 2 0 0 0 1
+/home/bardotiowa/public_html/images/color/column-divider_bluegray.png
+0 7 0 103642 0 0
+/home/bardotiowa/public_html/images/timetable-decorator.png
+0 7 0 33509 0 0
+/home/bardotiowa/public_html/reservations.html
+0 7 0 87006 0 0
+/home/bardotiowa/public_html/images/11403507_1602779599984462_678947514118551556_n.jpg
+0 7 0 652001 0 0
+/home/bardotiowa/public_html/js/picker/jquery.cookie.js
+0 7 0 13305 0 0
+/home/bardotiowa/images/light.jpg
+0 2 0 18146 0 0
+/home/bardotiowa/
+0 2 0 66284 0 0
+/home/bardotiowa/public_html/images/ornament.png
+0 7 0 67165 0 0
+/home/bardotiowa/public_html/.cpanel/caches/filesys/___
+0 7 0 833 0 0
+/home/bardotiowa/public_html/tmp/webalizerftp/daily_usage_201507.png
+0 7 0 17563 0 0
+/home/bardotiowa/js/bootstrap-image-gallery.min.js
+0 2 0 2192 0 0
+/home/bardotiowa/tmp/webalizerftp/usage.png
+0 2 0 4362 0 0
+/home/bardotiowa/css/bootstrap-image-gallery.min.css
+0 2 0 2944 0 0
+/home/bardotiowa/public_html/js/owl-carousel/owl.carousel.css
+0 7 0 12347 0 0
+/home/bardotiowa/public_html/css/color/red.css
+0 7 0 22624 0 0
+/home/bardotiowa/public_html/fonts/FontAwesome.otf
+0 7 0 601356 0 0
+/home/bardotiowa/tmp/webalizerftp/usage_201507.html
+0 2 0 92036 0 0
+/home/bardotiowa/images/color/testimonials_logo_wine.png
+0 2 0 97940 0 0
+/home/bardotiowa/images/color/header_decorator_bluegray.png
+0 2 0 5342 0 0
+/home/bardotiowa/tmp/webalizerftp/webalizer.current
+0 2 0 39170 0 0
+/home/bardotiowa/public_html/images/10345736_1470459799883110_3760258188511238098_n.jpg
+0 7 0 675766 0 0
+/home/bardotiowa/js/plugins.js
+0 2 0 12715 0 0
+/home/bardotiowa/css/color/black.css
+0 2 0 6862 0 0
+/home/bardotiowa/images/about04.jpg
+0 2 0 25320 0 0
+/home/bardotiowa/public_html/layout-styles.css
+0 6 0 26652 0 0
+/home/bardotiowa/public_html/fonts/fontawesome-webfont.woff
+0 7 0 458164 0 0
+/home/bardotiowa/public_html/images/.Ulysses-Group.plist
+0 7 0 2786 0 0
+/home/bardotiowa/public_html/images/color/header_decorator_green.png
+0 7 0 18697 0 0
+/home/bardotiowa/public_html/js/picker/style-picker/title-bg.jpg
+0 7 0 7973 0 0
+/home/bardotiowa/public_html/images/color/timetable-decorator2_green.png
+0 7 0 619948 0 0
+/home/bardotiowa/images/testimonials_logo.png
+0 2 0 6168 0 0
+/home/bardotiowa/public_html/js/picker/style-picker/light.jpg
+0 7 0 63511 0 0
+/home/bardotiowa/.bash_profile
+0 2 0 352 0 0
+/home/bardotiowa/public_html/BardotMenu.pdf
+0 7 0 3173807 0 0
+/home/bardotiowa/public_html/js/plugins.js
+0 7 0 45105 0 0
+/home/bardotiowa/images/drinks4.png
+0 2 0 797866 0 0
+/home/bardotiowa/.cpanel/datastore/ports_GETSSHPORT
+0 2 0 4 0 0
+/home/bardotiowa/js/jquery.nav.js
+0 2 0 10504 0 0
+/home/bardotiowa/images/color/reservations_logo_wine.png
+0 2 0 33516 0 0
+/home/bardotiowa/images/drinks2.png
+0 2 0 693996 0 0
+/home/bardotiowa/images/logo-dark.png
+0 2 0 45020 0 0
+/home/bardotiowa/images/BardotMain.png
+0 2 0 13122 0 0
+/home/bardotiowa/public_html/css/lightbox.css
+0 7 0 10785 0 0
+/home/bardotiowa/images/drinks1.png
+0 2 0 616314 0 0
+/home/bardotiowa/images/about01.jpg
+0 2 0 40492 0 0
+/home/bardotiowa/images/color/timetable-decorator_yellow.png
+0 2 0 177128 0 0
+/home/bardotiowa/images/color/column-divider_black.png
+0 2 0 29612 0 0
+/home/bardotiowa/images/drinks3.png
+0 2 0 942510 0 0
+/home/bardotiowa/public_html/images/BardotLogoLong.png
+0 7 0 91413 0 0
+/home/bardotiowa/public_html/images/about02.jpg
+0 7 0 194600 0 0
+/home/bardotiowa/public_html/tmp/awstats/awstats072015.bardotiowacity.com.txt
+0 7 0 47392 0 0
+/home/bardotiowa/public_html/js/jquery.magnific-popup.js
+0 7 0 333337 0 0
+/home/bardotiowa/public_html/images/RainbowShot
+0 7 0 13933570 0 0
+/home/bardotiowa/public_html/images/button_line.png
+0 7 0 198212 0 0
+/home/bardotiowa/public_html/tmp/webalizer/ctry_usage_201507.png
+0 7 0 15939 0 0
+/home/bardotiowa/js/picker/style-picker/red.jpg
+0 2 0 2284 0 0
+/home/bardotiowa/public_html/images/color/slide-separator_yellow.png
+0 7 0 80668 0 0
+/home/bardotiowa/images/10345736_1470459799883110_3760258188511238098_n.jpg
+0 2 0 193076 0 0
+/home/bardotiowa/public_html/404.shtml
+0 6 0 10704 0 0
+/home/bardotiowa/images/map/pointer-gold.png
+0 2 0 10830 0 0
+/home/bardotiowa/css/color/red.css
+0 2 0 6409 0 0
+/home/bardotiowa/public_html/images/color/timetable-decorator_bluegray.png
+0 7 0 619948 0 0
+/home/bardotiowa/public_html/css/magnific-popup.css
+0 7 0 56682 0 0
+/home/bardotiowa/images/color/header_decorator_black.png
+0 2 0 5342 0 0
+/home/bardotiowa/public_html/images/menu_title_line.png
+0 7 0 14994 0 0
+/home/bardotiowa/images/gallery/07.jpg
+0 2 0 36438 0 0
+/home/bardotiowa/public_html/images/10538645_1466465080282582_2597901808343586572_n.jpg
+0 7 0 379820 0 0
+/home/bardotiowa/images/food3.png
+0 2 0 990912 0 0
+/home/bardotiowa/public_html/images/color/column-divider_wine.png
+0 7 0 103642 0 0
+/home/bardotiowa/public_html/images/slider/01.jpg
+0 7 0 624722 0 0
+/home/bardotiowa/.cl.selector/defaults.cfg
+0 2 0 1604 0 0
+/home/bardotiowa/.cpanel/nvdata.cache
+0 2 0 114 0 0
+/home/bardotiowa/images/color/reservations_logo_black.png
+0 2 0 33516 0 0
+/home/bardotiowa/public_html/images/quotes.png
+0 7 0 33516 0 0
+/home/bardotiowa/public_html/images/about05.jpg
+0 7 0 88620 0 0
+/home/bardotiowa/public_html/images/map/pointer-gold.png
+0 7 0 37905 0 0
+/home/bardotiowa/public_html/images/BardotNav2.png
+0 7 0 14595 0 0
+/home/bardotiowa/public_html/images/drinks3.png
+0 7 0 3298785 0 0
+/home/bardotiowa/js/owl-carousel/owl.transitions.css
+0 2 0 8626 0 0
+/home/bardotiowa/js/imagelightbox.min.js
+0 2 0 9423 0 0
+/home/bardotiowa/public_html/images/10527309_1527537474175342_3604891740949139252_n.jpg
+0 7 0 527660 0 0
+/home/bardotiowa/public_html/images/color/logo_elixir_orange.png
+0 7 0 157570 0 0
+/home/bardotiowa/public_html/images/color/timetable-decorator_black.png
+0 7 0 619948 0 0
+/home/bardotiowa/index-multipage.html
+0 4 0 94942 0 0
+/home/bardotiowa/images/color/testimonials_logo_yellow.png
+0 2 0 97940 0 0
+/home/bardotiowa/js/picker/style-picker/wide.png
+0 2 0 2704 0 0
+/home/bardotiowa/public_html/js/jquery.mb.YTPlayer.js
+0 7 0 284431 0 0
+/home/bardotiowa/public_html/images/gallery/05.jpg
+0 7 0 127533 0 0
+/home/bardotiowa/public_html/images/food2.png
+0 7 0 1794674 0 0
+/home/bardotiowa/js/bootstrap.min.js
+0 2 0 58199 0 0
+/home/bardotiowa/images/menu_title_line.png
+0 2 0 4284 0 0
+/home/bardotiowa/images/color/timetable-decorator2_black.png
+0 2 0 177128 0 0
+/home/bardotiowa/public_html/images/color/logo_intro_orange.png
+0 7 0 179172 0 0
+/home/bardotiowa/js/picker/style-picker/orange.jpg
+0 2 0 2284 0 0
+/home/bardotiowa/public_html/images/map/pointer-bluegray.png
+0 7 0 19173 0 0
+/home/bardotiowa/public_html/etc/ftpquota
+0 7 0 0 0 0
+/home/bardotiowa/public_html/css/prettyPhoto.css
+0 7 0 142330 0 0
+/home/bardotiowa/public_html/js/picker/style-picker/wide.png
+0 7 0 9464 0 0
+/home/bardotiowa/public_html/images/logo_intro.png
+0 7 0 159257 0 0
+/home/bardotiowa/public_html/js/scripts-ck.js
+0 7 0 265 0 0
+/home/bardotiowa/public_html/.cpanel/datastore/ftp_LISTSTORE
+0 7 0 2198 0 0
+/home/bardotiowa/public_html/logs/ftp.bardotiowacity.com-ftp_log-Jul-2015.gz
+0 7 0 29911 0 0
+/home/bardotiowa/css/magnific-popup.css
+0 2 0 15932 0 0
+/home/bardotiowa/js/picker/style-picker/purple.jpg
+0 2 0 2284 0 0
+/home/bardotiowa/images/10527309_1527537474175342_3604891740949139252_n.jpg
+0 2 0 150760 0 0
+/home/bardotiowa/public_html/js/isotope.pkgd.min.js
+0 7 0 249423 0 0
+/home/bardotiowa/images/timetable-decorator.png
+0 2 0 9574 0 0
+/home/bardotiowa/public_html/images/parallax/testimonials.jpg
+0 7 0 625429 0 0
+/home/bardotiowa/public_html/images/menu_right2.jpg
+0 7 0 294868 0 0
+/home/bardotiowa/public_html/.cpanel/datastore/all_iplist.db
+0 7 0 3451 0 0
+/home/bardotiowa/public_html/images/drinks4.png
+0 7 0 2792531 0 0
+/home/bardotiowa/public_html/css/.Ulysses-Group.plist
+0 7 0 2058 0 0
+/home/bardotiowa/images/color/logo_elixir_wine.png
+0 2 0 45020 0 0
+/home/bardotiowa/images/menu_right.jpg
+0 2 0 59974 0 0
+/home/bardotiowa/public_html/images/timetable-decorator2.png
+0 7 0 33488 0 0
+/home/bardotiowa/images/BardotLogoLong.png
+0 2 0 26118 0 0
+/home/bardotiowa/images/rarrow-color.png
+0 2 0 2462 0 0
+/home/bardotiowa/images/about06.jpg
+0 2 0 25320 0 0
+/home/bardotiowa/images/color/testimonials_logo_bluegray.png
+0 2 0 97940 0 0
+/home/bardotiowa/public_html/js/picker/style-picker/pink.jpg
+0 7 0 7994 0 0
+/home/bardotiowa/images/10538645_1466465080282582_2597901808343586572_n.jpg
+0 2 0 108520 0 0
+/home/bardotiowa/public_html/images/about01.jpg
+0 7 0 141722 0 0
+/home/bardotiowa/public_html/images/food4.png
+0 7 0 3217928 0 0
+/home/bardotiowa/public_html/images/color/testimonials_logo_black.png
+0 7 0 342790 0 0
+/home/bardotiowa/fonts/fontawesome-webfont.ttf
+0 2 0 224320 0 0
+/home/bardotiowa/images/button_line.png
+0 2 0 56632 0 0
+/home/bardotiowa/public_html/images/BardotMain.png
+0 7 0 45927 0 0
+/home/bardotiowa/images/color/reservations_logo_red.png
+0 2 0 33516 0 0
+/home/bardotiowa/images/color/header_decorator_orange.png
+0 2 0 5342 0 0
+/home/bardotiowa/public_html/tmp/webalizer/usage.png
+0 7 0 14777 0 0
+/home/bardotiowa/public_html/js/owl-carousel/paging.png
+0 7 0 20846 0 0
+/home/bardotiowa/images/color/reservations_logo_orange.png
+0 2 0 33516 0 0
+/home/bardotiowa/public_html/css/color/green.css
+0 7 0 23562 0 0
+/home/bardotiowa/js/picker/style-picker/light.jpg
+0 2 0 18146 0 0
+/home/bardotiowa/public_html/js/classie.js
+0 7 0 13325 0 0
+/home/bardotiowa/public_html/www/home.html
+0 7 0 14227 0 0
+/home/bardotiowa/public_html/js/jquery.prettyPhoto.js
+0 7 0 252489 0 0
+/home/bardotiowa/js/picker/style-picker/picker-icon.png
+0 2 0 6050 0 0
+/home/bardotiowa/images/btn-next.png
+0 2 0 4440 0 0
+/home/bardotiowa/public_html/images/food6.png
+0 7 0 4271841 0 0
+/home/bardotiowa/public_html/images/drinks2.png
+0 7 0 2428986 0 0
+/home/bardotiowa/public_html/js/html5shiv.js
+0 7 0 73255 0 0
+/home/bardotiowa/public_html/images/color/logo_intro_red.png
+0 7 0 177002 0 0
+/home/bardotiowa/public_html/images/color/reservations_logo_black.png
+0 7 0 117306 0 0
+/home/bardotiowa/public_html/tmp/webalizer/hourly_usage_201507.png
+0 7 0 11753 0 0
+/home/bardotiowa/public_html/images/food5.jpg
+0 7 0 356615 0 0
+/home/bardotiowa/public_html/js/imagelightbox.min.js
+0 7 0 32993 0 0
+/home/bardotiowa/images/10568894_1470138286581928_3893571996352785709_n.jpg
+0 2 0 131426 0 0
+/home/bardotiowa/public_html/css/color/bluegray.css
+0 7 0 24956 0 0
+/home/bardotiowa/public_html/images/10420226_1591054541156968_1556579756408042711_n.jpg
+0 7 0 237034 0 0
+/home/bardotiowa/images/map/pointer-bluegray.png
+0 2 0 5478 0 0
+/home/bardotiowa/.cpanel/contactinfo
+0 2 0 120 0 0
+/home/bardotiowa/public_html/images/map/pointer.png
+0 7 0 37905 0 0
+/home/bardotiowa/images/food1.png
+0 2 0 986232 0 0
+/home/bardotiowa/public_html/images/BardotGrey.png
+0 7 0 21511 0 0
+/home/bardotiowa/.cpanel/datastore/SYSTEMMIME
+0 4 0 110492 0 0
+/home/bardotiowa/tmp/webalizer/webalizer.current
+0 2 0 4476 0 0
+/home/bardotiowa/public_html/images/gallery/03.jpg
+0 7 0 127533 0 0
+/home/bardotiowa/public_html/tmp/webalizerftp/usage.png
+0 7 0 15267 0 0
+/home/bardotiowa/public_html/css/swipebox.css
+0 7 0 38676 0 0
+/home/bardotiowa/public_html/images/color/logo_intro_black.png
+0 7 0 176862 0 0
+/home/bardotiowa/public_html/.md5sum
+0 7 0 231 0 0
+/home/bardotiowa/public_html/images/picker-ico.png
+0 7 0 7721 0 0
+/home/bardotiowa/public_html/images/menu_logo.png
+0 7 0 28553 0 0
+/home/bardotiowa/images/logo_intro_small.png
+0 2 0 28516 0 0
+/home/bardotiowa/public_html/js/html5shiv-printshiv.js
+0 7 0 116121 0 0
+/home/bardotiowa/public_html/images/drinks6.png
+0 7 0 2759064 0 0
+/home/bardotiowa/public_html/css/isotope.css
+0 7 0 15881 0 0
+/home/bardotiowa/public_html/css/bootstrap-image-gallery.min.css
+0 7 0 10325 0 0
+/home/bardotiowa/menu.html
+0 2 0 59703 0 0
+/home/bardotiowa/public_html/js/jquery.isotope.min.js
+0 7 0 264250 0 0
+/home/bardotiowa/public_html/images/color/logo_elixir_black.png
+0 7 0 157570 0 0
+/home/bardotiowa/images/color/logo_intro_orange.png
+0 2 0 51192 0 0
+/home/bardotiowa/public_html/images/color/header_decorator_yellow.png
+0 7 0 18697 0 0
+/home/bardotiowa/tmp/webalizer/
+0 2 0 7480 0 0
+/home/bardotiowa/public_html/images/color/column-divider_yellow.png
+0 7 0 103642 0 0
+/home/bardotiowa/images/map/pointer-red.png
+0 2 0 5644 0 0
+/home/bardotiowa/js/styleswitch.js
+0 2 0 2130 0 0
+/home/bardotiowa/public_html/tmp/webalizer/webalizer.current
+0 7 0 15666 0 0
+/home/bardotiowa/public_html/js/jquery.swipebox.js
+0 7 0 162821 0 0
+/home/bardotiowa/public_html/images/gallery/06.jpg
+0 7 0 129682 0 0
+/home/bardotiowa/public_html/images/10418878_1471157429813347_2414516385554515349_n.jpg
+0 7 0 715946 0 0
+/home/bardotiowa/public_html/images/color/logo_elixir_black_dark.png
+0 7 0 157570 0 0
+/home/bardotiowa/images/color/column-divider_yellow.png
+0 2 0 29612 0 0
+/home/bardotiowa/public_html/images/color/testimonials_logo_red.png
+0 7 0 342790 0 0
+/home/bardotiowa/public_html/js/owl-carousel/.Ulysses-Group.plist
+0 7 0 2730 0 0
+/home/bardotiowa/public_html/images/fruitblur.png
+0 7 0 9509262 0 0
+/home/bardotiowa/.contactemail
+0 1 0 0 0 0
+/home/bardotiowa/public_html/images/color/reservations_logo_wine.png
+0 7 0 117306 0 0
+/home/bardotiowa/.cpanel/caches/filesys/___
+0 6 0 714 0 0
+/home/bardotiowa/public_html/images/arrow-right.png
+0 7 0 10262 0 0
+/home/bardotiowa/images/color/column-divider_bluegray.png
+0 2 0 29612 0 0
+/home/bardotiowa/tmp/webalizer/usage.png
+0 2 0 4222 0 0
+/home/bardotiowa/fonts/fontawesome-webfont.svg
+0 2 0 574014 0 0
+/home/bardotiowa/images/picker-ico.png
+0 2 0 2206 0 0
+/home/bardotiowa/public_html/css/bootstrap.min.css
+0 7 0 311266 0 0
+/home/bardotiowa/images/gallery/01.jpg
+0 2 0 36438 0 0
+/home/bardotiowa/js/jquery.form.js
+0 2 0 79592 0 0
+/home/bardotiowa/tmp/webalizer/webalizer.hist
+0 2 0 5730 0 0
+/home/bardotiowa/public_html/js/picker/style-picker/red.jpg
+0 7 0 7994 0 0
+/home/bardotiowa/images/adress-ico.png
+0 2 0 2514 0 0
+/home/bardotiowa/public_html/images/cd-top-arrow.svg
+0 7 0 3934 0 0
+/home/bardotiowa/images/1661800_1612114545717634_6695895752074427385_n.jpg
+0 2 0 175206 0 0
+/home/bardotiowa/public_html/images/slider/02.jpg
+0 7 0 565313 0 0
+/home/bardotiowa/public_html/images/color/timetable-decorator2_bluegray.png
+0 7 0 619948 0 0
+/home/bardotiowa/public_html/fonts/fontawesome-webfont.svg
+0 7 0 2009049 0 0
+/home/bardotiowa/public_html/js/jquery.inview.js
+0 7 0 14781 0 0
+/home/bardotiowa/public_html/css/elixir.css
+0 7 0 476416 0 0
+/home/bardotiowa/tmp/webalizer/usage_201507.html
+0 2 0 93846 0 0
+/home/bardotiowa/.cpanel/nvdata/x3finder
+0 2 0 6 0 0
+/home/bardotiowa/about.html
+0 4 0 52504 0 0
+/home/bardotiowa/images/timetable-decorator2.png
+0 2 0 9568 0 0
+/home/bardotiowa/js/picker/jquery.cookie.js
+0 2 0 3750 0 0
+/home/bardotiowa/images/color/slide-separator_wine.png
+0 2 0 23048 0 0
+/home/bardotiowa/tmp/awstats/awstats072015.bardotiowacity.com.txt
+0 2 0 13612 1 0
+/home/bardotiowa/images/color/timetable-decorator2_red.png
+0 2 0 177128 0 0
+/home/bardotiowa/public_html/images/color/slide-separator_black.png
+0 7 0 80668 0 0
+/home/bardotiowa/public_html/images/color/logo_intro_yellow.png
+0 7 0 177548 0 0
+/home/bardotiowa/public_html/images/1661800_1612114545717634_6695895752074427385_n.jpg
+0 7 0 613221 0 0
+/home/bardotiowa/public_html/images/color/testimonials_logo_wine.png
+0 7 0 342790 0 0
+/home/bardotiowa/images/color/timetable-decorator2_orange.png
+0 2 0 177128 0 0
+/home/bardotiowa/BardotMenu.pdf
+0 2 0 906802 0 0
+/home/bardotiowa/public_html/js/owl-carousel/AjaxLoader.gif
+0 7 0 10619 0 0
+/home/bardotiowa/images/gallery/03.jpg
+0 2 0 36438 0 0
+/home/bardotiowa/public_html/.cl.selector/defaults.cfg
+0 7 0 5614 0 0
+/home/bardotiowa/.cpanel/datastore/reseller_SORTEDRESELLERSUSERS_bardotiowa
+0 5 0 1030 0 0
+/home/bardotiowa/images/reservations_logo.png
+0 2 0 7200 0 0
+/home/bardotiowa/js/scripts-ck.js
+0 2 0 75 0 0
+/home/bardotiowa/public_html/mail.php
+0 7 0 3807 0 0
+/home/bardotiowa/public_html/js/styleswitch.js
+0 7 0 7475 0 0
+/home/bardotiowa/images/logo_elixir.png
+0 2 0 45020 0 0
+/home/bardotiowa/public_html/images/color/timetable-decorator_yellow.png
+0 7 0 619948 0 0
+/home/bardotiowa/tmp/awstats/awstats.bardotiowacity.com.conf
+0 2 0 47518 0 0
+/home/bardotiowa/js/owl-carousel/paging-active.png
+0 2 0 5964 0 0
+/home/bardotiowa/public_html/tmp/webalizerftp/webalizer.current
+0 7 0 137095 0 0
+/home/bardotiowa/images/color/logo_elixir_black_dark.png
+0 2 0 45020 0 0
+/home/bardotiowa/tmp/webalizer/daily_usage_201507.png
+0 2 0 5254 0 0
+/home/bardotiowa/public_html/images/drinks1.png
+0 7 0 2157099 0 0
+/home/bardotiowa/public_html/images/map/pointer-wine.png
+0 7 0 19488 0 0
+/home/bardotiowa/public_html/images/color/reservations_logo_green.png
+0 7 0 117306 0 0
+/home/bardotiowa/images/color/logo_intro_yellow.png
+0 2 0 50728 0 0
+/home/bardotiowa/public_html/images/map/.Ulysses-Group.plist
+0 7 0 2065 0 0
+/home/bardotiowa/public_html/images/rarrow-color.png
+0 7 0 8617 0 0
+/home/bardotiowa/images/color/logo_elixir_green.png
+0 2 0 45020 0 0
+/home/bardotiowa/public_html/js/owl-carousel/owl.carousel.js
+0 7 0 378645 0 0
+/home/bardotiowa/public_html/images/slider/03.jpg
+0 7 0 636909 0 0
+/home/bardotiowa/tmp/webalizerftp/hourly_usage_201507.png
+0 2 0 3214 0 0
+/home/bardotiowa/public_html/.cpanel/caches/filesys/___home___bardotiowa
+0 7 0 1141 0 0
+/home/bardotiowa/images/10668866_1589394557989633_4302470571345312535_o.jpg
+0 2 0 1542856 0 0
+/home/bardotiowa/public_html/images/gallery/01.jpg
+0 7 0 127533 0 0
+/home/bardotiowa/public_html/images/10941416_1588843171378105_594202609592777138_n.jpg
+0 7 0 639583 0 0
+/home/bardotiowa/public_html/js/picker/style-picker/turquoise.jpg
+0 7 0 7994 0 0
+/home/bardotiowa/images/zoom.png
+0 2 0 5476 0 0
+/home/bardotiowa/public_html/js/picker/style-picker/dark.jpg
+0 7 0 64050 0 0
+/home/bardotiowa/public_html/images/color/header_decorator_wine.png
+0 7 0 18697 0 0
+/home/bardotiowa/images/color/slide-separator_black.png
+0 2 0 23048 0 0
+/home/bardotiowa/public_html/tmp/webalizerftp/hourly_usage_201507.png
+0 7 0 11249 0 0
+/home/bardotiowa/images/about02.jpg
+0 2 0 55600 0 0
+/home/bardotiowa/logs/ftp.bardotiowacity.com-ftp_log-Jul-2015.gz
+0 2 0 8546 0 0
+/home/bardotiowa/public_html/images/BardotReservations.png
+0 7 0 9786 0 0
+/home/bardotiowa/public_html/css/YTPlayer.css
+0 7 0 65157 0 0
+/home/bardotiowa/public_html/js/owl-carousel/owl.transitions.css
+0 7 0 30581 0 0
+/home/bardotiowa/.cpanel/datastore/_usr_local_cpanel_bin_quota_bardotiowa
+0 6 0 3930 0 0
+/home/bardotiowa/public_html/images/color/slide-separator_bluegray.png
+0 7 0 80668 0 0
+/home/bardotiowa/public_html/images/BardotNav2.gif
+0 7 0 10248 0 0
+/home/bardotiowa/images/10420226_1591054541156968_1556579756408042711_n.jpg
+0 2 0 67724 0 0
+/home/bardotiowa/public_html/js/picker/.Ulysses-Group.plist
+0 7 0 3409 0 0
+/home/bardotiowa/public_html/tmp/webalizer/webalizer.hist
+0 7 0 20055 0 0
+/home/bardotiowa/public_html/images/reservations_logo.png
+0 7 0 25200 0 0
+/home/bardotiowa/js/jquery.mb.YTPlayer.js
+0 2 0 81266 0 0
+/home/bardotiowa/public_html/images/about06.jpg
+0 7 0 88620 0 0
+/home/bardotiowa/js/picker/style-picker/seperator.png
+0 2 0 2928 0 0
+/home/bardotiowa/public_html/.gemrc
+0 7 0 994 0 0
+/home/bardotiowa/tmp/webalizer/ctry_usage_201507.png
+0 2 0 4554 0 0
+/home/bardotiowa/public_html/tmp/webalizerftp/usage_201507.html
+0 7 0 321243 0 0
+/home/bardotiowa/images/icon-hamburger-white.png
+0 2 0 1964 0 0
+/home/bardotiowa/public_html/css/animate.css
+0 7 0 455528 0 0
+/home/bardotiowa/js/picker/style-picker.css
+0 2 0 4335 0 0
+/home/bardotiowa/public_html/css/color/orange.css
+0 7 0 24031 0 0
+/home/bardotiowa/images/steaks.png
+0 2 0 349776 0 0
+/home/bardotiowa/.gemrc
+0 1 0 142 0 0
+/home/bardotiowa/js/modernizr.custom.js
+0 2 0 16747 0 0
+/home/bardotiowa/css/.css
+0 2 0 127793 0 0
+/home/bardotiowa/images/color/timetable-decorator_orange.png
+0 2 0 177128 0 0
+/home/bardotiowa/public_html/images/about03.jpg
+0 7 0 235543 0 0
+/home/bardotiowa/public_html/css/color/wine.css
+0 7 0 23093 0 0
+/home/bardotiowa/mail.php
+0 1 0 531 0 0
+/home/bardotiowa/contact.html
+0 4 0 34192 0 0
+/home/bardotiowa/css/.Ulysses-Group.plist
+0 2 0 588 0 0
+/home/bardotiowa/public_html/images/11705366_1610016389260783_5534524849014385388_n.jpg
+0 7 0 401261 0 0
+/home/bardotiowa/public_html/index-multipage.html
+0 7 0 166510 0 0
+/home/bardotiowa/public_html/images/color/logo_elixir_wine.png
+0 7 0 157570 0 0
+/home/bardotiowa/public_html/.contactemail
+0 7 0 0 0 0
+/home/bardotiowa/js/jquery.js
+0 2 0 191576 0 0
+/home/bardotiowa/css/lightbox.css
+0 2 0 3030 0 0
+/home/bardotiowa/js/respond.js
+0 2 0 33648 0 0
+/home/bardotiowa/public_html/images/btn-prev.png
+0 7 0 15519 0 0
+/home/bardotiowa/images/gallery/05.jpg
+0 2 0 36438 0 0
+/home/bardotiowa/images/slide-separator.png
+0 2 0 2998 0 0
+/home/bardotiowa/js/jquery.magnific-popup.js
+0 2 0 93733 0 0
+/home/bardotiowa/images/.Ulysses-Group.plist
+0 2 0 796 0 0
+/home/bardotiowa/js/jquery.swipebox.js
+0 2 0 45878 0 0
+/home/bardotiowa/etc/cacheid
+0 2 0 16 0 0
+/home/bardotiowa/images/color/reservations_logo_green.png
+0 2 0 33516 0 0
+/home/bardotiowa/public_html/images/food3.png
+0 7 0 3468192 0 0
+/home/bardotiowa/public_html/.lastlogin
+0 7 0 91 0 0
+/home/bardotiowa/images/color/timetable-decorator_green.png
+0 2 0 177128 0 0
+/home/bardotiowa/images/color/timetable-decorator_wine.png
+0 2 0 177128 0 0
+/home/bardotiowa/public_html/images/map/pointer-blue.png
+0 7 0 22869 0 0
+/home/bardotiowa/images/color/logo_intro_green.png
+0 2 0 51814 0 0
+/home/bardotiowa/public_html/tmp/awstats/awstats.bardotiowacity.com.conf
+0 7 0 166313 0 0
+/home/bardotiowa/images/color/testimonials_logo_red.png
+0 2 0 97940 0 0
+/home/bardotiowa/js/classie.js
+0 2 0 3750 0 0
+/home/bardotiowa/js/jquery.validate.js
+0 2 0 79133 0 0
+/home/bardotiowa/images/color/header_decorator_red.png
+0 2 0 5342 0 0
+/home/bardotiowa/images/BardotGrey.png
+0 2 0 6146 0 0
+/home/bardotiowa/public_html/js/jquery.nav.js
+0 7 0 37319 0 0
+/home/bardotiowa/images/slider/02.jpg
+0 2 0 161518 0 0
+/home/bardotiowa/css/color/wine.css
+0 2 0 6543 0 0
+/home/bardotiowa/images/desserts.png
+0 2 0 264508 0 0
+/home/bardotiowa/public_html/images/CP-Lounge-Bali-Rainbow-Shots_0.jpg
+0 7 0 2354744 0 0
+/home/bardotiowa/public_html/.cpanel/datastore/ports_GETSSHPORT
+0 7 0 14 0 0
+/home/bardotiowa/public_html/.cpanel/datastore/_usr_sbin_pure-ftpd_--help
+0 7 0 8050 0 0
+/home/bardotiowa/public_html/images/color/timetable-decorator_wine.png
+0 7 0 619948 0 0
+/home/bardotiowa/svg-loaders/tail-spin.svg
+0 2 0 2676 0 0
+/home/bardotiowa/public_html/images/tumblr_static_pub_crawl_delhi_background.jpg
+0 7 0 781102 0 0
+/home/bardotiowa/public_html/images/10668866_1589394557989633_4302470571345312535_o.jpg
+0 7 0 5399996 0 0
+/home/bardotiowa/images/fruitblur.png
+0 2 0 2716932 0 0
+/home/bardotiowa/public_html/images/dark.jpg
+0 7 0 64050 0 0
+/home/bardotiowa/images/color/slide-separator_red.png
+0 2 0 23048 0 0
+/home/bardotiowa/public_html/js/picker/style-picker/yellow.jpg
+0 7 0 7994 0 0
+/home/bardotiowa/public_html/images/menu_left.jpg
+0 7 0 197946 0 0
+/home/bardotiowa/public_html/images/arrow-left.png
+0 7 0 10262 0 0
+/home/bardotiowa/css/animate.css
+0 2 0 127793 0 0
+/home/bardotiowa/css/color/orange.css
+0 2 0 6811 0 0
+/home/bardotiowa/public_html/js/owl-carousel/paging-active.png
+0 7 0 20874 0 0
+/home/bardotiowa/public_html/images/BardotNav.png
+0 7 0 9478 0 0
+/home/bardotiowa/public_html/images/color/timetable-decorator2_black.png
+0 7 0 619948 0 0
+/home/bardotiowa/css/font-awesome.min.css
+0 2 0 43971 0 0
+/home/bardotiowa/css/bootstrap.min.css
+0 2 0 87371 0 0
+/home/bardotiowa/public_html/images/logo_elixir.png
+0 7 0 157570 0 0
+/home/bardotiowa/images/icon-hamburger.png
+0 2 0 1978 0 0
+/home/bardotiowa/tmp/webalizerftp/ctry_usage_201507.png
+0 2 0 4554 0 0
+/home/bardotiowa/public_html/images/color/timetable-decorator_red.png
+0 7 0 619948 0 0
+/home/bardotiowa/public_html/css/color/black.css
+0 7 0 24212 0 0
+/home/bardotiowa/images/food4.png
+0 2 0 919408 0 0
+/home/bardotiowa/images/color/slide-separator_yellow.png
+0 2 0 23048 0 0
+/home/bardotiowa/public_html/images/logo_intro_small.png
+0 7 0 99806 0 0
+/home/bardotiowa/images/drinks5.png
+0 2 0 636466 0 0
+/home/bardotiowa/public_html/images/menu_right.jpg
+0 7 0 209909 0 0
+/home/bardotiowa/public_html/js/picker/style-picker.css
+0 7 0 15664 0 0
+/home/bardotiowa/public_html/images/color/timetable-decorator_green.png
+0 7 0 619948 0 0
+/home/bardotiowa/public_html/js/modernizr.custom.js
+0 7 0 58622 0 0
+/home/bardotiowa/.zshrc
+0 2 0 1316 0 0
+/home/bardotiowa/images/slider/03.jpg
+0 2 0 181974 0 0
+/home/bardotiowa/public_html/images/icon-hamburger-white.png
+0 7 0 6874 0 0
+/home/bardotiowa/images/quotes.png
+0 2 0 9576 0 0
+/home/bardotiowa/public_html/images/color/reservations_logo_bluegray.png
+0 7 0 117306 0 0
+/home/bardotiowa/js/default.js
+0 2 0 41298 0 0
+/home/bardotiowa/images/color/column-divider_red.png
+0 2 0 29612 0 0
+/home/bardotiowa/images/10941416_1588843171378105_594202609592777138_n.jpg
+0 2 0 182738 0 0
+/home/bardotiowa/public_html/images/BardotFullWhite.png
+0 7 0 42007 0 0
+/home/bardotiowa/public_html/js/picker/style-picker/.Ulysses-Group.plist
+0 7 0 2065 0 0
+/home/bardotiowa/images/menu_logo.png
+0 2 0 8158 0 0
+/home/bardotiowa/public_html/images/color/reservations_logo_yellow.png
+0 7 0 117306 0 0
+/home/bardotiowa/images/map/.Ulysses-Group.plist
+0 2 0 590 0 0
+/home/bardotiowa/js/jquery.isotope.min.js
+0 2 0 75495 0 0
+/home/bardotiowa/tmp/webalizerftp/webalizer.hist
+0 2 0 5738 0 0
+/home/bardotiowa/public_html/images/gallery/08.jpg
+0 7 0 129682 0 0
+/home/bardotiowa/public_html/images/icons.png
+0 7 0 5103 0 0
+/home/bardotiowa/images/BardotNav2.png
+0 2 0 4170 0 0
+/home/bardotiowa/images/parallax/testimonials.jpg
+0 2 0 178694 0 0
+/home/bardotiowa/public_html/images/color/header_decorator_bluegray.png
+0 7 0 18697 0 0
+/home/bardotiowa/tmp/webalizer/hourly_usage_201507.png
+0 2 0 3358 0 0
+/home/bardotiowa/js/isotope.pkgd.min.js
+0 2 0 71258 0 0
+/home/bardotiowa/logs/bardotiowacity.com-Jul-2015.gz
+0 2 0 1304 0 0
+/home/bardotiowa/public_html/images/icon-hamburger.png
+0 7 0 6923 0 0
+/home/bardotiowa/public_html/images/testimage.jpg
+0 7 0 141220856 0 0
+/home/bardotiowa/js/.Ulysses-Group.plist
+0 2 0 3756 0 0
+/home/bardotiowa/images/icons.png
+0 2 0 1458 0 0
+/home/bardotiowa/public_html/images/color/reservations_logo_red.png
+0 7 0 117306 0 0
+/home/bardotiowa/js/pathLoader.js
+0 2 0 2087 0 0
+/home/bardotiowa/public_html/images/10678658_1482373605358396_2715382764172798182_n.jpg
+0 7 0 302806 0 0
+/home/bardotiowa/images/color/logo_intro_wine.png
+0 2 0 51686 0 0
+/home/bardotiowa/public_html/images/color/timetable-decorator2_yellow.png
+0 7 0 619948 0 0
+/home/bardotiowa/public_html/tmp/webalizerftp/ctry_usage_201507.png
+0 7 0 15939 0 0
+/home/bardotiowa/images/gallery/08.jpg
+0 2 0 37052 0 0
+/home/bardotiowa/js/picker/controlpanel.js
+0 2 0 12886 0 0
+/home/bardotiowa/images/11231318_1611627449099677_3390140144428731984_n.jpg
+0 2 0 87478 0 0
+/home/bardotiowa/js/owl-carousel/paging.png
+0 2 0 5956 0 0
+/home/bardotiowa/images/color/timetable-decorator_black.png
+0 2 0 177128 0 0
+/home/bardotiowa/images/color/logo_elixir_black.png
+0 2 0 45020 0 0
+/home/bardotiowa/public_html/about.html
+0 7 0 92104 0 0
+/home/bardotiowa/images/gallery/02.jpg
+0 2 0 37052 0 0
+/home/bardotiowa/css/prettyPhoto.css
+0 2 0 39945 0 0
+/home/bardotiowa/public_html/etc/cacheid
+0 7 0 56 1 0
+/home/bardotiowa/public_html/images/color/column-divider_orange.png
+0 7 0 103642 0 0
+/home/bardotiowa/images/arrow-right.png
+0 2 0 2932 0 0
+/home/bardotiowa/js/html5shiv.js
+0 2 0 20700 0 0
+/home/bardotiowa/public_html/images/header_decorator.png
+0 7 0 4165 0 0
+/home/bardotiowa/images/map/pointer-blue.png
+0 2 0 6534 0 0
+/home/bardotiowa/images/map/pointer-orange.png
+0 2 0 5680 0 0
+/home/bardotiowa/images/food6.png
+0 2 0 1220526 0 0
+/home/bardotiowa/public_html/.cpanel/caches/dynamicui/gl_paper_lantern_en_.cache
+0 7 0 219758 0 0
+/home/bardotiowa/public_html/images/color/logo_elixir_green.png
+0 7 0 157570 0 0
+/home/bardotiowa/images/color/logo_intro_red.png
+0 2 0 50572 0 0
+/home/bardotiowa/public_html/js/picker/style-picker/seperator.png
+0 7 0 10248 0 0
+/home/bardotiowa/public_html/.cpanel/contactinfo
+0 7 0 420 0 0
+/home/bardotiowa/public_html/js/owl-carousel/owl.theme.css
+0 7 0 9720 0 0
+/home/bardotiowa/public_html/css/.css
+0 7 0 455528 0 0
+/home/bardotiowa/public_html/menu.html
+0 7 0 210413 0 0
+/home/bardotiowa/public_html/js/picker/style-picker/green.jpg
+0 7 0 7994 0 0
+/home/bardotiowa/js/picker/style-picker/title-bg.jpg
+0 2 0 2278 0 0
+/home/bardotiowa/images/11705366_1610016389260783_5534524849014385388_n.jpg
+0 2 0 114646 0 0
+/home/bardotiowa/public_html/js/picker/controlpanel.js
+0 7 0 46023 0 0
+/home/bardotiowa/public_html/images/color/timetable-decorator2_orange.png
+0 7 0 619948 0 0
+/home/bardotiowa/images/color/logo_elixir_yellow.png
+0 2 0 45020 0 0
+/home/bardotiowa/public_html/images/color/column-divider_red.png
+0 7 0 103642 0 0
+/home/bardotiowa/images/map/pointer-green.png
+0 2 0 7160 0 0
+/home/bardotiowa/public_html/images/color/reservations_logo_orange.png
+0 7 0 117306 0 0
+/home/bardotiowa/public_html/images/color/testimonials_logo_yellow.png
+0 7 0 342790 0 0
+/home/bardotiowa/public_html/images/about04.jpg
+0 7 0 88620 0 0
+/home/bardotiowa/images/map/pointer-wine.png
+0 2 0 5568 0 0
+/home/bardotiowa/fonts/fontawesome-webfont.eot
+0 2 0 112012 0 0
+/home/bardotiowa/css/isotope.css
+0 2 0 4456 0 0
+/home/bardotiowa/public_html/images/gallery/04.jpg
+0 7 0 129682 0 0
+/home/bardotiowa/public_html/fonts/fontawesome-webfont.ttf
+0 7 0 785120 0 0
+/home/bardotiowa/gallery.html
+0 1 0 15966 0 0
+/home/bardotiowa/public_html/images/11270626_1592193714376384_2528151690596907772_o.jpg
+0 7 0 727048 0 0
+/home/bardotiowa/images/menu_left.jpg
+0 2 0 56556 0 0
+/home/bardotiowa/public_html/js/owl-carousel/owl.carousel.min.js
+0 7 0 104412 0 0
+/home/bardotiowa/images/logo_intro.png
+0 2 0 45502 0 0
+/home/bardotiowa/.Ulysses-Group.plist
+0 1 0 549 0 0
+/home/bardotiowa/js/owl-carousel/AjaxLoader.gif
+0 2 0 3034 0 0
+/home/bardotiowa/public_html/images/gallery/07.jpg
+0 7 0 127533 0 0
+/home/bardotiowa/public_html/js/isotope.js
+0 7 0 127514 0 0
+/home/bardotiowa/css/elixir.css
+0 3 0 199281 0 0
+/home/bardotiowa/public_html/images/raster.png
+0 7 0 19558 0 0
+/home/bardotiowa/js/owl-carousel/owl.theme.css
+0 2 0 2724 0 0
+# End Of Table - urls
+# -sites- (monthly)
+174.109.93.13
+0 2911 2911 333604924 3 1437917301
+/home/bardotiowa/public_html/tmp/webalizerftp/
+# End Of Table - sites (monthly)
+# -sites- (daily)
+174.109.93.13
+0 2606 2606 296762656 2 1437917301
+/home/bardotiowa/public_html/tmp/webalizerftp/
+# End Of Table - sites (daily)
+# -referrers- 
+# End Of Table - referrers
+# -agents- 
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+bardotiowa
+0 2911 2911 333604924 4 1437917301
+# End Of Table - usernames

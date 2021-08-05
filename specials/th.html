@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Bardot Thursday Specials</title>
+    </head>
+
+    <body style="padding: 0; margin: 0;">
+        <img style="width: 100%; height: 100%; padding: 0; margin: 0;" id="bg" src="">
+
+        <script type = "text/javascript">
+            var bg = document.getElementById("bg");
+            var currentPos = 0;
+            var images = ["Th-4.png", "Th-5.png", "Th-6.png"]
+            bg.src = images[0];
+            
+            function toggleBG() {
+                if (++currentPos >= images.length)
+                    currentPos = 0;
+
+                bg.src = images[currentPos];
+            }
+
+            setInterval(toggleBG, 10*1000);
+        </script>
+    </body>
+</html>
